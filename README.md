@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Olá, eu sou o Guilherme
 
-<!--
-**GuisLima/GuisLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de programação e trabalho na área de tecnologia.
+Atualmente estou desenvolvendo meus conhecimentos em C#, utilizando o GitHub para documentar minha evolução e meus projetos pessoais.
 
-Here are some ideas to get you started:
+💡 Tecnologias
+🚀 Tecnologia principal de estudo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C# / .NET — foco principal de aprendizado e prática diária.
+
+🐍 Tecnologia já estudada e com conhecimento prévio
+
+Python — conhecimento até Programação Orientada a Objetos (POO) e projetos básicos.
+
+⚙️ Tecnologias complementares
+
+SQL — status de assuntos entendidos: DDL (CREATE, DROP, ALTER), projeção com SELECT, cláusulas WHERE, UPDATE e DELETE, e COUNT.
+DevOps — estudos iniciais sobre CI/CD, Docker e GitHub Actions.
+
+| Área      | Link                                                                        | Descrição                                             |
+| --------- | --------------------------------------------------------------------------- | ----------------------------------------------------- |
+| 💻 C#     | [Projetos em C#](https://github.com/GuisLima?tab=repositories&q=csharp)     | Projetos principais e estudos com C#                  |
+| 🐍 Python | [Projetos em Python](https://github.com/GuisLima?tab=repositories&q=python) | Projetos básicos e estudos de POO                     |
+| 🧪 SQL    | [SQL Estudos](https://github.com/GuisLima?tab=repositories&q=sql)           | Exercícios práticos e anotações de aprendizado em SQL |
+| ⚙️ DevOps | [DevOps Labs](https://github.com/GuisLima?tab=repositories&q=devops)        | Testes com Docker, CI/CD e pipelines                  |
+
+
+  
+📫 Contato
+
+📧 Email: lima.guilhermerj@gmail.com
+💼 LinkedIn: [linkedin.com/in/seunome](https://www.linkedin.com/in/guilherme-silveira-288745124/)
