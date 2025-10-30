@@ -29,4 +29,4 @@ DevOps — estudos iniciais sobre CI/CD, Docker e GitHub Actions.
 📫 Contato
 
 📧 Email: lima.guilhermerj@gmail.com
-💼 LinkedIn: [linkedin.com/in/seunome](https://www.linkedin.com/in/guilherme-silveira-288745124/)
+💼 LinkedIn: [linkedin.com/in/guilherme-silveira-288745124]
