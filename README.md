@@ -7,7 +7,7 @@ Atualmente estou desenvolvendo meus conhecimentos em C#, utilizando o GitHub par
 🚀 Tecnologia principal de estudo
 
 C# / .NET — foco principal de aprendizado e prática diária.
-🚀 Aprendizado atual: serialização e deserialização em C#
+📘 Aprendizado atual: serialização e deserialização em C#
 
 🐍 Tecnologia já estudada e com conhecimento prévio
 
