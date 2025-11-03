@@ -26,9 +26,6 @@ DevOps — estudos iniciais sobre CI/CD, Docker e GitHub Actions.
 | ⚙️ DevOps | [DevOps Labs](https://github.com/GuisLima?tab=repositories&q=devops)        | Testes com Docker, CI/CD e pipelines                  |
 
 
-  
-📫 Contato
-
 ### 📫 Contato
 📧 **Email:** [lima.guilhermerj@gmail.com](mailto:lima.guilhermerj@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/guilherme-silveira-288745124](https://www.linkedin.com/in/guilherme-silveira-288745124/)
