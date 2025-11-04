@@ -16,6 +16,7 @@ Python — conhecimento até Programação Orientada a Objetos (POO) e projetos 
 ⚙️ Tecnologias complementares
 
 SQL — status de assuntos entendidos: DDL (CREATE, DROP, ALTER), projeção com SELECT, cláusulas WHERE, UPDATE e DELETE, e COUNT.
+
 DevOps — estudos iniciais sobre CI/CD, Docker e GitHub Actions.
 
 | Área      | Link                                                                        | Descrição                                             |
