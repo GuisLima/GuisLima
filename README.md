@@ -7,7 +7,8 @@ Atualmente estou desenvolvendo meus conhecimentos em C#, utilizando o GitHub par
 🚀 Tecnologia principal de estudo
 
 C# / .NET — foco principal de aprendizado e prática diária.
-📘 Aprendizado atual: serialização e deserialização em C#
+
+📘Aprendizado atual: Tipos especiais em C# (Nullabe, Tipos Anônimos, Tipos Dinâmicos, Classes Genéricas, Métodos de extensão.)
 
 🐍 Tecnologia já estudada e com conhecimento prévio
 
