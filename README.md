@@ -8,7 +8,7 @@ Atualmente estou desenvolvendo meus conhecimentos em C#, utilizando o GitHub par
 
 C# / .NET — foco principal de aprendizado e prática diária.
 
-📘Aprendizado atual: Tipos especiais em C# (Nullabe, Tipos Anônimos, Tipos Dinâmicos, Classes Genéricas, Métodos de extensão.)
+📘Aprendizado atual: Aprofundamento nos conceitos de POO
 
 🐍 Tecnologia já estudada e com conhecimento prévio
 
